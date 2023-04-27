@@ -154,4 +154,4 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time.
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/cool-Moshood) / [Twitter](https://twitter.com/cool_moshood)
+Moshood Age - [Github](https://github.com/cool-Moshood) / [Twitter](https://twitter.com/cool_moshood)
